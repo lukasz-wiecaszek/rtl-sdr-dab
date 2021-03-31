@@ -1,0 +1,6 @@
+[submodule "cfgitems"]
+	path = cfgitems
+	url = https://github.com/lukasz-wiecaszek/cfgitems.git
+[submodule "cmdlineflags"]
+	path = cmdlineflags
+	url = https://github.com/lukasz-wiecaszek/cmdlineflags.git
